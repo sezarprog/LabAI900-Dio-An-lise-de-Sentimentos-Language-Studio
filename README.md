@@ -22,5 +22,6 @@
 ### Texto em Portugues
 ![image](https://github.com/sezarprog/LabAI900-Dio-Analise-de-Sentimentos-Language-Studio/assets/153564526/3a9a6c7e-32b5-49d1-b8d4-d535744f9057)
 ### Texto em Inglês
-![image](https://github.com/sezarprog/LabAI900-Dio-Analise-de-Sentimentos-Language-Studio/assets/153564526/3a9a6c7e-32b5-49d1-b8d4-d535744f9057)
+![image](https://github.com/sezarprog/LabAI900-Dio-Analise-de-Sentimentos-Language-Studio/assets/153564526/ab8b2ac0-5021-4aaf-9914-2b3f0c33a599)
 
+Texto traduzido no Google Translator.
