@@ -25,3 +25,4 @@
 ![image](https://github.com/sezarprog/LabAI900-Dio-Analise-de-Sentimentos-Language-Studio/assets/153564526/ab8b2ac0-5021-4aaf-9914-2b3f0c33a599)
 
 Texto traduzido no Google Translator.
+
