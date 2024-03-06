@@ -17,4 +17,7 @@
 - Analise avaliações no Language Studio
 - Limpar
 
-em atualização 
+## TESTE 1
+> Verificado uma diferença considerável do mesmo texto traduzido em linglas diferentes!
+### Texto em portugues
+
