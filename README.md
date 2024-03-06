@@ -18,6 +18,9 @@
 - Limpar
 
 ## TESTE 1
-> Verificado uma diferença considerável do mesmo texto traduzido em linglas diferentes!
-### Texto em portugues
+> Verificado uma diferença considerável na análise de sentimento do mesmo texto traduzido em línguas diferentes!
+### Texto em Portugues
+![image](https://github.com/sezarprog/LabAI900-Dio-Analise-de-Sentimentos-Language-Studio/assets/153564526/3a9a6c7e-32b5-49d1-b8d4-d535744f9057)
+### Texto em Inglês
+![image](https://github.com/sezarprog/LabAI900-Dio-Analise-de-Sentimentos-Language-Studio/assets/153564526/3a9a6c7e-32b5-49d1-b8d4-d535744f9057)
 
